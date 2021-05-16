@@ -1,12 +1,11 @@
 Package: words
 Title: List of English Words from the Scrabble Dictionary
-Version: 1.0.0
+Version: 1.0.1
 Authors@R: 
-    person(given = "First",
-           family = "Last",
+    person(given = "Conor",
+           family = "Neilson",
            role = c("aut", "cre"),
-           email = "first.last@example.com",
-           comment = c(ORCID = "YOUR-ORCID-ID"))
+           email = "condwanaland@gmail.com")
 Description: List of english scrabble words as listed in the OTCWL2014
     <https://www.scrabbleplayers.org/w/Official_Tournament_and_Club_Word_List_2014_Edition>.
     Words are collated from the 'Word Game Dictionary' <https://www.wordgamedictionary.com/word-lists/>.
