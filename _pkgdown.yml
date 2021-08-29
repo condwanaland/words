@@ -1,0 +1,11 @@
+template:
+  params:
+home:
+  strip_header: false
+navbar:
+  right:
+  - icon: fa-arrow-circle-left fa-lg
+    href: https://conorneilson.com/r
+    text: Go back to main site
+
+destination: '../Still-the-Data/static/r/words'
